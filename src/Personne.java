@@ -23,7 +23,7 @@ public class Personne {
 
         // Affichez les valeurs des deux compteurs
 
-        System.out.println("(" + personne4.nbLocal + "," + Personne.nbInstances + ")");
+        System.out.println("(" + personne2.nbLocal + "," + Personne.nbInstances + ")");
     }
 
 
