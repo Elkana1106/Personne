@@ -19,6 +19,11 @@ public class Personne {
         Personne personne3 = new Personne();
 
         Personne personne4 = new Personne();
+
+
+        // Affichez les valeurs des deux compteurs
+
+        System.out.println("(" + personne4.nbLocal + "," + Personne.nbInstances + ")");
     }
 
 
